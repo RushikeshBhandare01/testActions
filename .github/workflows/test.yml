@@ -34,4 +34,4 @@ jobs:
 
       - name: run file
         run: |
-            node test.js
+            node test.js "${{ggiithub.event.inputs.leaseId}} "${{ggiithub.event.inputs.licenseNumbers}}"
