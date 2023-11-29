@@ -34,4 +34,4 @@ jobs:
 
       - name: run file
         run: |
-            node test.js "${{github.event.inputs.leaseId}} "${{github.event.inputs.licenseNumbers}}"
+            node test.js "${{github.event.inputs.leaseId}}" "${{github.event.inputs.licenseNumbers}}"
