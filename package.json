@@ -1,0 +1,19 @@
+{
+  "name": "funprojects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RushikeshBhandare01/testActions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RushikeshBhandare01/testActions/issues"
+  },
+  "homepage": "https://github.com/RushikeshBhandare01/testActions#readme"
+}
