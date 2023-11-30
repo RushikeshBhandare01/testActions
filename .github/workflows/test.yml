@@ -8,7 +8,7 @@ on:
         required: true
         default: ''
       licenseNumbers:
-        description: 'Enter license numbers'
+        description: 'Enter license numbers, Ex: AFEBL412082FW9CT, MRPSZ164587UP6JT'
         required: true
         default: ''
 
